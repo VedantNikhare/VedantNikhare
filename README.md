@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Studing on **Vellore Institute Of Technology**
 
-- 🌱 I’m currently learning **Web development ,UI/UX Design ,**
+- 🌱 I’m currently learning **Full Stack Web development ,UI/UX Design ,**
 
 - 📫 How to reach me **nikharevedant89@gmail.com**
 
